@@ -1,6 +1,8 @@
 # Vue JS Introductory Repo
 Vue is a progressive and perfomant **Javascript Framework** used for buliding user interfaces(UIs) and front-end Applications.
 
+## Have a look to what i have [made](https://my-first-vuejs-application.vercel.app/)
+
 ## Why use Vue?
 - Makes creating Uis and front-end apps much easier
 - Less of a learning curve than other framework
